@@ -1,8 +1,4 @@
-<script>let studentname = "sivakumari"
-studentname = "siva"
-console.log(studentname)
-let studentname = "diva"
-studentname = "varun"
-console.log(studentname)
-</script>
- 
+
+const birthyear = 1998;
+birthyear = 2010;
+ console.log(birthyear);

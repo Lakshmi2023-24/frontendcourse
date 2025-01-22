@@ -1,0 +1,1 @@
+let globalscope = "im a girl"

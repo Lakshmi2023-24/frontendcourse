@@ -1,0 +1,11 @@
+let movieprice = 200;
+console.log("type of movieprice:",movieprice)
+let movietile = "sankrantiki vastunam";
+console.log("type of movietitle;",movietile)
+let isavailability = "true";
+console.log("type of movie;", isavailability)
+let nextshowtiming;
+console.log("type of next show timings;",nextshowtiming)
+let specialoffers = "null";
+console.log("type of special offers;",specialoffers)
+console.log("value of special offers:",specialoffers)
